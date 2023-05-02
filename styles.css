@@ -1,0 +1,29 @@
+.panchito {
+    margin: 0px auto;
+    width: 420px;
+    height: 50px;
+}
+
+#pan {
+    background-color:burlywood;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: 10px solid #c28b5d;
+}
+
+#chi {
+    width: 460px;
+    background-color: rgb(197, 35, 23);
+    border-radius: 30px;
+}
+
+#to {
+    background-color:burlywood;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top: 10px solid #c28b5d;
+}
